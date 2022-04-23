@@ -1,0 +1,9 @@
+.content {
+    text-align: center;
+}
+
+.button {
+    height: 36px;
+    width: 60px;
+    background-color: cadetblue;
+}
